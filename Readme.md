@@ -70,4 +70,4 @@ contract Degenvotingcontract {
 
 
 ## Authors
-Anjali Sharma  
+Anshu
